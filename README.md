@@ -1,6 +1,7 @@
 # HuggingFace
 My NLP notebooks built in Google Colab.
-#Text pipelines
+<br>
+# Text pipelines
 
 text-generation: Generate text from a prompt
 text-classification: Classify text into predefined categories
